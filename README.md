@@ -1,5 +1,5 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--XAiWRSsE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rukvu3dz6ztgqrlxsq8.png)
-<h1 align="center">Hi 👋, I'm Zeeshan Saeed</h1>
+<h1 align="center">Hi, I'm Zeeshan Saeed</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrzeeshansaeed&label=Profile%20views&color=0e75b6&style=flat" alt="engrzeeshansaeed" /> </p>
